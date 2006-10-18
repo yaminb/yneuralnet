@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YAINeuralNet", "YAINeuralNet\YAINeuralNet.csproj", "{AF0E0C34-3A68-44E5-8C27-513FC5CAF4DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YAITest", "YAITest\YAITest.csproj", "{D9D327B5-7222-4315-BAE6-138A3855EB11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YAICompression", "YAICompression\YAICompression.csproj", "{8352081E-9115-43ED-A717-FC271768B617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF0E0C34-3A68-44E5-8C27-513FC5CAF4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0E0C34-3A68-44E5-8C27-513FC5CAF4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0E0C34-3A68-44E5-8C27-513FC5CAF4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0E0C34-3A68-44E5-8C27-513FC5CAF4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9D327B5-7222-4315-BAE6-138A3855EB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D327B5-7222-4315-BAE6-138A3855EB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D327B5-7222-4315-BAE6-138A3855EB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D327B5-7222-4315-BAE6-138A3855EB11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8352081E-9115-43ED-A717-FC271768B617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8352081E-9115-43ED-A717-FC271768B617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8352081E-9115-43ED-A717-FC271768B617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8352081E-9115-43ED-A717-FC271768B617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

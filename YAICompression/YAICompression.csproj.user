@@ -1,0 +1,8 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>hcnt=3 h0=40 h1=30 h2=20 alpha=0.01 prevbytes=8 outbytes=1 totaltrainreps=11 file="C:\\Documents and Settings\\yam\\My Documents\\Programming\\YNeuralNet\\enwik8.2.7z"</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartArguments>hcnt=3 h0=40 h1=30 h2=20 alpha=0.01 prevbytes=8 outbytes=1 totaltrainreps=11 file="C:\\Documents and Settings\\yam\\My Documents\\Programming\\YNeuralNet\\enwik8.2.7z"</StartArguments>
+  </PropertyGroup>
+</Project>

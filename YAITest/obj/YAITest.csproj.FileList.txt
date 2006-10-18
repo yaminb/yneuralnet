@@ -1,0 +1,14 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\YAITest.exe
+bin\Release\YAITest.pdb
+bin\Release\YAINeuralNet.dll
+bin\Release\YAINeuralNet.pdb
+obj\Release\YAITest.exe
+obj\Release\YAITest.pdb
+bin\Debug\YAITest.exe
+bin\Debug\YAITest.pdb
+bin\Debug\YAINeuralNet.dll
+bin\Debug\YAINeuralNet.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\YAITest.exe
+obj\Debug\YAITest.pdb

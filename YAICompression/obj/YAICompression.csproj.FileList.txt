@@ -1,0 +1,14 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\YAICompression.exe
+bin\Release\YAICompression.pdb
+bin\Release\YAINeuralNet.dll
+bin\Release\YAINeuralNet.pdb
+obj\Release\YAICompression.exe
+obj\Release\YAICompression.pdb
+bin\Debug\YAICompression.exe
+bin\Debug\YAICompression.pdb
+bin\Debug\YAINeuralNet.dll
+bin\Debug\YAINeuralNet.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\YAICompression.exe
+obj\Debug\YAICompression.pdb
